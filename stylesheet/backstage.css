@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.top {
+    height: 40%;
+    width: 100%;
+    background: rgb(81, 118, 160);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.bottom {
+    height: 60%;
+    width: 100%;
+    background: rgb(229, 229, 229);
+    position: absolute;
+    left: 0;
+    top: 40%;
+}
+
+.pic {
+    position: absolute;
+    left: 38%;
+    top: 83%;
+}
+.version{
+    position: absolute;
+    left: 53%;
+    top:79%;
+}
+
+#user #pwd #button{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#user{
+    margin-top: 10px;
+}
+
+ 
